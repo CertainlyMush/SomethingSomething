@@ -22,7 +22,12 @@ body {
     font-size: 1.5em;
     color: #e61e1e;
   }
- 
+
+  h3 {
+    font-size: 1.2em;
+    color: #e61e1e;
+  }
+
   .buttons {
     margin-top: 20px;
   }
